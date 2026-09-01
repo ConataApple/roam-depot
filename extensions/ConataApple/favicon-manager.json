@@ -1,0 +1,10 @@
+{
+  "name": "Favicon Manager",
+  "short_description": "Show website favicons next to external links in Roam, with a settings panel and per-site custom icons. Based on paulovieira/roam-show-favicon.",
+  "author": "ConataApple",
+  "tags": ["favicon", "links", "ui", "icons"],
+  "source_url": "https://github.com/ConataApple/roam-favicon-manager",
+  "source_repo": "https://github.com/ConataApple/roam-favicon-manager.git",
+  "source_commit": "6282b740842130b94d3c4e638e70d03cccdfa17b",
+  "stripe_account": ""
+}
